@@ -2,7 +2,7 @@
 <h3 align="center">Code, GYM, Flutter | Computer Science Student 🚀</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<iframe src="https://giphy.com/embed/lXHwJv89PvdN200Anr" width="400" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/lXHwJv89PvdN200Anr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-tech-designer-developer-lXHwJv89PvdN200Anr">via GIPHY</a></p>
 
 <h3 align="left">Connect with me:</h3>
 
