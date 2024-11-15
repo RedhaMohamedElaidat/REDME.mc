@@ -1,5 +1,5 @@
 <h1 align="center">Hello !!, I'm Elaidat Mohamed Redha</h1>
-<h3 align="center">Code, GYM, Flutter | Computer Science Student 🚀</h3>
+<h3 align="center">Code, GYM, Flutter | Software Engineering Student 🚀</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/RedhaMohamedElaidat/REDME.mc/assets/101430457/95a26428-7cf5-42d6-960f-13ecaa1060b2">
 
